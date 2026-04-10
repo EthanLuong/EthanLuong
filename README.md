@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Ethan 👋
 
-<!--
-**EthanLuong/EthanLuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend software engineer based in the Midwest. I build production
+Java services with Spring Boot, with a background in event-driven
+systems (Kafka), PostgreSQL, and observability tooling from three
+years at a Fortune 500 financial services client.
 
-Here are some ideas to get you started:
+Currently expanding into full-stack work with React and TypeScript,
+and looking for my next backend or full-stack role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack I work in:** Java 17 · Spring Boot · Spring Security · JPA ·
+PostgreSQL · Flyway · Testcontainers · Docker · React · TypeScript
+
+**Pinned project:** [kitchen](https://github.com/EthanLuong/kitchen) —
+a full-stack inventory app I'm using as my main portfolio piece.
+Spring Boot 4 backend with JWT auth, refresh token rotation, rate
+limiting, partial indexes, and Testcontainers integration tests.
+React + TypeScript frontend.
+
+📫 ethaniluong@gmail.com · [LinkedIn](https://www.linkedin.com/in/ethan-luong/)
